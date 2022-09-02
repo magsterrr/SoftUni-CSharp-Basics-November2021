@@ -1,0 +1,15 @@
+/Users/maggie/Projects/ForCicle/ForCicle/bin/Debug/net5.0/ForCicle.deps.json
+/Users/maggie/Projects/ForCicle/ForCicle/bin/Debug/net5.0/ForCicle.runtimeconfig.json
+/Users/maggie/Projects/ForCicle/ForCicle/bin/Debug/net5.0/ForCicle.runtimeconfig.dev.json
+/Users/maggie/Projects/ForCicle/ForCicle/bin/Debug/net5.0/ForCicle.dll
+/Users/maggie/Projects/ForCicle/ForCicle/bin/Debug/net5.0/ref/ForCicle.dll
+/Users/maggie/Projects/ForCicle/ForCicle/bin/Debug/net5.0/ForCicle.pdb
+/Users/maggie/Projects/ForCicle/ForCicle/obj/Debug/net5.0/ForCicle.csproj.AssemblyReference.cache
+/Users/maggie/Projects/ForCicle/ForCicle/obj/Debug/net5.0/ForCicle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/ForCicle/ForCicle/obj/Debug/net5.0/ForCicle.AssemblyInfoInputs.cache
+/Users/maggie/Projects/ForCicle/ForCicle/obj/Debug/net5.0/ForCicle.AssemblyInfo.cs
+/Users/maggie/Projects/ForCicle/ForCicle/obj/Debug/net5.0/ForCicle.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/ForCicle/ForCicle/obj/Debug/net5.0/ForCicle.dll
+/Users/maggie/Projects/ForCicle/ForCicle/obj/Debug/net5.0/ref/ForCicle.dll
+/Users/maggie/Projects/ForCicle/ForCicle/obj/Debug/net5.0/ForCicle.pdb
+/Users/maggie/Projects/ForCicle/ForCicle/obj/Debug/net5.0/ForCicle.genruntimeconfig.cache

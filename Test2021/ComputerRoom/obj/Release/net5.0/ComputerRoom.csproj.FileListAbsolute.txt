@@ -1,0 +1,15 @@
+/Users/maggie/Projects/Test2021/ComputerRoom/bin/Release/net5.0/ComputerRoom.deps.json
+/Users/maggie/Projects/Test2021/ComputerRoom/bin/Release/net5.0/ComputerRoom.runtimeconfig.json
+/Users/maggie/Projects/Test2021/ComputerRoom/bin/Release/net5.0/ComputerRoom.runtimeconfig.dev.json
+/Users/maggie/Projects/Test2021/ComputerRoom/bin/Release/net5.0/ComputerRoom.dll
+/Users/maggie/Projects/Test2021/ComputerRoom/bin/Release/net5.0/ref/ComputerRoom.dll
+/Users/maggie/Projects/Test2021/ComputerRoom/bin/Release/net5.0/ComputerRoom.pdb
+/Users/maggie/Projects/Test2021/ComputerRoom/obj/Release/net5.0/ComputerRoom.csproj.AssemblyReference.cache
+/Users/maggie/Projects/Test2021/ComputerRoom/obj/Release/net5.0/ComputerRoom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/Test2021/ComputerRoom/obj/Release/net5.0/ComputerRoom.AssemblyInfoInputs.cache
+/Users/maggie/Projects/Test2021/ComputerRoom/obj/Release/net5.0/ComputerRoom.AssemblyInfo.cs
+/Users/maggie/Projects/Test2021/ComputerRoom/obj/Release/net5.0/ComputerRoom.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/Test2021/ComputerRoom/obj/Release/net5.0/ComputerRoom.dll
+/Users/maggie/Projects/Test2021/ComputerRoom/obj/Release/net5.0/ref/ComputerRoom.dll
+/Users/maggie/Projects/Test2021/ComputerRoom/obj/Release/net5.0/ComputerRoom.pdb
+/Users/maggie/Projects/Test2021/ComputerRoom/obj/Release/net5.0/ComputerRoom.genruntimeconfig.cache

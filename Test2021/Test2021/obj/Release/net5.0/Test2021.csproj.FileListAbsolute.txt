@@ -1,0 +1,15 @@
+/Users/maggie/Projects/Test2021/Test2021/bin/Release/net5.0/Test2021.deps.json
+/Users/maggie/Projects/Test2021/Test2021/bin/Release/net5.0/Test2021.runtimeconfig.json
+/Users/maggie/Projects/Test2021/Test2021/bin/Release/net5.0/Test2021.runtimeconfig.dev.json
+/Users/maggie/Projects/Test2021/Test2021/bin/Release/net5.0/Test2021.dll
+/Users/maggie/Projects/Test2021/Test2021/bin/Release/net5.0/ref/Test2021.dll
+/Users/maggie/Projects/Test2021/Test2021/bin/Release/net5.0/Test2021.pdb
+/Users/maggie/Projects/Test2021/Test2021/obj/Release/net5.0/Test2021.csproj.AssemblyReference.cache
+/Users/maggie/Projects/Test2021/Test2021/obj/Release/net5.0/Test2021.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/Test2021/Test2021/obj/Release/net5.0/Test2021.AssemblyInfoInputs.cache
+/Users/maggie/Projects/Test2021/Test2021/obj/Release/net5.0/Test2021.AssemblyInfo.cs
+/Users/maggie/Projects/Test2021/Test2021/obj/Release/net5.0/Test2021.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/Test2021/Test2021/obj/Release/net5.0/Test2021.dll
+/Users/maggie/Projects/Test2021/Test2021/obj/Release/net5.0/ref/Test2021.dll
+/Users/maggie/Projects/Test2021/Test2021/obj/Release/net5.0/Test2021.pdb
+/Users/maggie/Projects/Test2021/Test2021/obj/Release/net5.0/Test2021.genruntimeconfig.cache

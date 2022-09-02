@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{02715439-84F9-40F8-BCA4-D3F228934353}|Default">
+  <MonoDevelop.Ide.ItemProperties.Test2021 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Processors/Program.cs">
+    <Files>
+      <File FileName="Test2021/Program.cs" Line="24" Column="40" />
+      <File FileName="Processors/Program.cs" Line="30" Column="1" />
+      <File FileName="ComputerRoom/Program.cs" />
+      <File FileName="CatFood/Program.cs" />
+      <File FileName="PuppyCare/Program.cs" Line="16" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Test2021" expanded="True">
+            <Node name="CatFood" expanded="True" />
+            <Node name="ComputerRoom" expanded="True" />
+            <Node name="Processors" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="PuppyCare" expanded="True" />
+            <Node name="Test2021" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Processors PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.PuppyCare PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ComputerRoom PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.CatFood PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

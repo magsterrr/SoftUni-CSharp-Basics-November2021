@@ -1,0 +1,15 @@
+/Users/maggie/Projects/Test2021/PuppyCare/bin/Release/net5.0/PuppyCare.deps.json
+/Users/maggie/Projects/Test2021/PuppyCare/bin/Release/net5.0/PuppyCare.runtimeconfig.json
+/Users/maggie/Projects/Test2021/PuppyCare/bin/Release/net5.0/PuppyCare.runtimeconfig.dev.json
+/Users/maggie/Projects/Test2021/PuppyCare/bin/Release/net5.0/PuppyCare.dll
+/Users/maggie/Projects/Test2021/PuppyCare/bin/Release/net5.0/ref/PuppyCare.dll
+/Users/maggie/Projects/Test2021/PuppyCare/bin/Release/net5.0/PuppyCare.pdb
+/Users/maggie/Projects/Test2021/PuppyCare/obj/Release/net5.0/PuppyCare.csproj.AssemblyReference.cache
+/Users/maggie/Projects/Test2021/PuppyCare/obj/Release/net5.0/PuppyCare.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/Test2021/PuppyCare/obj/Release/net5.0/PuppyCare.AssemblyInfoInputs.cache
+/Users/maggie/Projects/Test2021/PuppyCare/obj/Release/net5.0/PuppyCare.AssemblyInfo.cs
+/Users/maggie/Projects/Test2021/PuppyCare/obj/Release/net5.0/PuppyCare.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/Test2021/PuppyCare/obj/Release/net5.0/PuppyCare.dll
+/Users/maggie/Projects/Test2021/PuppyCare/obj/Release/net5.0/ref/PuppyCare.dll
+/Users/maggie/Projects/Test2021/PuppyCare/obj/Release/net5.0/PuppyCare.pdb
+/Users/maggie/Projects/Test2021/PuppyCare/obj/Release/net5.0/PuppyCare.genruntimeconfig.cache

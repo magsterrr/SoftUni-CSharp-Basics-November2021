@@ -1,0 +1,15 @@
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/bin/Debug/net5.0/FirstStepsLab.deps.json
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/bin/Debug/net5.0/FirstStepsLab.runtimeconfig.json
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/bin/Debug/net5.0/FirstStepsLab.runtimeconfig.dev.json
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/bin/Debug/net5.0/FirstStepsLab.dll
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/bin/Debug/net5.0/ref/FirstStepsLab.dll
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/bin/Debug/net5.0/FirstStepsLab.pdb
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/obj/Debug/net5.0/FirstStepsLab.csproj.AssemblyReference.cache
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/obj/Debug/net5.0/FirstStepsLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/obj/Debug/net5.0/FirstStepsLab.AssemblyInfoInputs.cache
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/obj/Debug/net5.0/FirstStepsLab.AssemblyInfo.cs
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/obj/Debug/net5.0/FirstStepsLab.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/obj/Debug/net5.0/FirstStepsLab.dll
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/obj/Debug/net5.0/ref/FirstStepsLab.dll
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/obj/Debug/net5.0/FirstStepsLab.pdb
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/obj/Debug/net5.0/FirstStepsLab.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/maggie/Projects/PractiseOne3/Deposit_Calculator/bin/Debug/net5.0/Deposit_Calculator.deps.json
+/Users/maggie/Projects/PractiseOne3/Deposit_Calculator/bin/Debug/net5.0/Deposit_Calculator.runtimeconfig.json
+/Users/maggie/Projects/PractiseOne3/Deposit_Calculator/bin/Debug/net5.0/Deposit_Calculator.runtimeconfig.dev.json
+/Users/maggie/Projects/PractiseOne3/Deposit_Calculator/bin/Debug/net5.0/Deposit_Calculator.dll
+/Users/maggie/Projects/PractiseOne3/Deposit_Calculator/bin/Debug/net5.0/ref/Deposit_Calculator.dll
+/Users/maggie/Projects/PractiseOne3/Deposit_Calculator/bin/Debug/net5.0/Deposit_Calculator.pdb
+/Users/maggie/Projects/PractiseOne3/Deposit_Calculator/obj/Debug/net5.0/Deposit_Calculator.csproj.AssemblyReference.cache
+/Users/maggie/Projects/PractiseOne3/Deposit_Calculator/obj/Debug/net5.0/Deposit_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/PractiseOne3/Deposit_Calculator/obj/Debug/net5.0/Deposit_Calculator.AssemblyInfoInputs.cache
+/Users/maggie/Projects/PractiseOne3/Deposit_Calculator/obj/Debug/net5.0/Deposit_Calculator.AssemblyInfo.cs
+/Users/maggie/Projects/PractiseOne3/Deposit_Calculator/obj/Debug/net5.0/Deposit_Calculator.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/PractiseOne3/Deposit_Calculator/obj/Debug/net5.0/Deposit_Calculator.dll
+/Users/maggie/Projects/PractiseOne3/Deposit_Calculator/obj/Debug/net5.0/ref/Deposit_Calculator.dll
+/Users/maggie/Projects/PractiseOne3/Deposit_Calculator/obj/Debug/net5.0/Deposit_Calculator.pdb
+/Users/maggie/Projects/PractiseOne3/Deposit_Calculator/obj/Debug/net5.0/Deposit_Calculator.genruntimeconfig.cache

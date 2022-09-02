@@ -1,0 +1,14 @@
+/Users/maggie/Projects/ForCicle/SumNumber/bin/Release/net5.0/SumNumber.deps.json
+/Users/maggie/Projects/ForCicle/SumNumber/bin/Release/net5.0/SumNumber.runtimeconfig.json
+/Users/maggie/Projects/ForCicle/SumNumber/bin/Release/net5.0/SumNumber.runtimeconfig.dev.json
+/Users/maggie/Projects/ForCicle/SumNumber/bin/Release/net5.0/SumNumber.dll
+/Users/maggie/Projects/ForCicle/SumNumber/bin/Release/net5.0/ref/SumNumber.dll
+/Users/maggie/Projects/ForCicle/SumNumber/bin/Release/net5.0/SumNumber.pdb
+/Users/maggie/Projects/ForCicle/SumNumber/obj/Release/net5.0/SumNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/ForCicle/SumNumber/obj/Release/net5.0/SumNumber.AssemblyInfoInputs.cache
+/Users/maggie/Projects/ForCicle/SumNumber/obj/Release/net5.0/SumNumber.AssemblyInfo.cs
+/Users/maggie/Projects/ForCicle/SumNumber/obj/Release/net5.0/SumNumber.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/ForCicle/SumNumber/obj/Release/net5.0/SumNumber.dll
+/Users/maggie/Projects/ForCicle/SumNumber/obj/Release/net5.0/ref/SumNumber.dll
+/Users/maggie/Projects/ForCicle/SumNumber/obj/Release/net5.0/SumNumber.pdb
+/Users/maggie/Projects/ForCicle/SumNumber/obj/Release/net5.0/SumNumber.genruntimeconfig.cache

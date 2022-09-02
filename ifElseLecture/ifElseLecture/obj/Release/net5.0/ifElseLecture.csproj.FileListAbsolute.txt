@@ -1,0 +1,14 @@
+/Users/maggie/Projects/ifElseLecture/ifElseLecture/bin/Release/net5.0/ifElseLecture.deps.json
+/Users/maggie/Projects/ifElseLecture/ifElseLecture/bin/Release/net5.0/ifElseLecture.runtimeconfig.json
+/Users/maggie/Projects/ifElseLecture/ifElseLecture/bin/Release/net5.0/ifElseLecture.runtimeconfig.dev.json
+/Users/maggie/Projects/ifElseLecture/ifElseLecture/bin/Release/net5.0/ifElseLecture.dll
+/Users/maggie/Projects/ifElseLecture/ifElseLecture/bin/Release/net5.0/ref/ifElseLecture.dll
+/Users/maggie/Projects/ifElseLecture/ifElseLecture/bin/Release/net5.0/ifElseLecture.pdb
+/Users/maggie/Projects/ifElseLecture/ifElseLecture/obj/Release/net5.0/ifElseLecture.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/ifElseLecture/ifElseLecture/obj/Release/net5.0/ifElseLecture.AssemblyInfoInputs.cache
+/Users/maggie/Projects/ifElseLecture/ifElseLecture/obj/Release/net5.0/ifElseLecture.AssemblyInfo.cs
+/Users/maggie/Projects/ifElseLecture/ifElseLecture/obj/Release/net5.0/ifElseLecture.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/ifElseLecture/ifElseLecture/obj/Release/net5.0/ifElseLecture.dll
+/Users/maggie/Projects/ifElseLecture/ifElseLecture/obj/Release/net5.0/ref/ifElseLecture.dll
+/Users/maggie/Projects/ifElseLecture/ifElseLecture/obj/Release/net5.0/ifElseLecture.pdb
+/Users/maggie/Projects/ifElseLecture/ifElseLecture/obj/Release/net5.0/ifElseLecture.genruntimeconfig.cache

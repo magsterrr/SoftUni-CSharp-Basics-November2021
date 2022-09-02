@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{52DF8672-B0DE-46AC-BA47-45D91270CACD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhileCycle/Program.cs">
+    <Files>
+      <File FileName="WhileCycle/Program.cs" Line="13" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WhileCycle" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>pass</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WhileCycle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/maggie/Projects/WhileCycle/WhileCycle/Program.cs" relfile="WhileCycle/Program.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

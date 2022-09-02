@@ -1,0 +1,15 @@
+/Users/maggie/Projects/ifElseLecture/GodzillaAgainstKong/bin/Debug/net5.0/GodzillaAgainstKong.deps.json
+/Users/maggie/Projects/ifElseLecture/GodzillaAgainstKong/bin/Debug/net5.0/GodzillaAgainstKong.runtimeconfig.json
+/Users/maggie/Projects/ifElseLecture/GodzillaAgainstKong/bin/Debug/net5.0/GodzillaAgainstKong.runtimeconfig.dev.json
+/Users/maggie/Projects/ifElseLecture/GodzillaAgainstKong/bin/Debug/net5.0/GodzillaAgainstKong.dll
+/Users/maggie/Projects/ifElseLecture/GodzillaAgainstKong/bin/Debug/net5.0/ref/GodzillaAgainstKong.dll
+/Users/maggie/Projects/ifElseLecture/GodzillaAgainstKong/bin/Debug/net5.0/GodzillaAgainstKong.pdb
+/Users/maggie/Projects/ifElseLecture/GodzillaAgainstKong/obj/Debug/net5.0/GodzillaAgainstKong.csproj.AssemblyReference.cache
+/Users/maggie/Projects/ifElseLecture/GodzillaAgainstKong/obj/Debug/net5.0/GodzillaAgainstKong.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/ifElseLecture/GodzillaAgainstKong/obj/Debug/net5.0/GodzillaAgainstKong.AssemblyInfoInputs.cache
+/Users/maggie/Projects/ifElseLecture/GodzillaAgainstKong/obj/Debug/net5.0/GodzillaAgainstKong.AssemblyInfo.cs
+/Users/maggie/Projects/ifElseLecture/GodzillaAgainstKong/obj/Debug/net5.0/GodzillaAgainstKong.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/ifElseLecture/GodzillaAgainstKong/obj/Debug/net5.0/GodzillaAgainstKong.dll
+/Users/maggie/Projects/ifElseLecture/GodzillaAgainstKong/obj/Debug/net5.0/ref/GodzillaAgainstKong.dll
+/Users/maggie/Projects/ifElseLecture/GodzillaAgainstKong/obj/Debug/net5.0/GodzillaAgainstKong.pdb
+/Users/maggie/Projects/ifElseLecture/GodzillaAgainstKong/obj/Debug/net5.0/GodzillaAgainstKong.genruntimeconfig.cache

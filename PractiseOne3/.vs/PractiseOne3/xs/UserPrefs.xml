@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{23A3FD99-3947-42ED-A03A-91435641F3E1}|Default">
+  <MonoDevelop.Ide.ItemProperties.Deposit__Calculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.SuppliesForSchool PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SuppliesForSchool/Program.cs">
+    <Files>
+      <File FileName="Deposit_Calculator/Program.cs" Line="13" Column="13" />
+      <File FileName="VacationBooksList/Program.cs" Line="21" Column="1" />
+      <File FileName="SuppliesForSchool/Program.cs" Line="24" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PractiseOne3" expanded="True">
+            <Node name="Deposit_Calculator" expanded="True" />
+            <Node name="SuppliesForSchool" expanded="True" selected="True" />
+            <Node name="VacationBooksList" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.VacationBooksList FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

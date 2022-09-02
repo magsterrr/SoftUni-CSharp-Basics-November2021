@@ -1,0 +1,15 @@
+/Users/maggie/Projects/PractiseOne3/SuppliesForSchool/bin/Debug/net5.0/SuppliesForSchool.deps.json
+/Users/maggie/Projects/PractiseOne3/SuppliesForSchool/bin/Debug/net5.0/SuppliesForSchool.runtimeconfig.json
+/Users/maggie/Projects/PractiseOne3/SuppliesForSchool/bin/Debug/net5.0/SuppliesForSchool.runtimeconfig.dev.json
+/Users/maggie/Projects/PractiseOne3/SuppliesForSchool/bin/Debug/net5.0/SuppliesForSchool.dll
+/Users/maggie/Projects/PractiseOne3/SuppliesForSchool/bin/Debug/net5.0/ref/SuppliesForSchool.dll
+/Users/maggie/Projects/PractiseOne3/SuppliesForSchool/bin/Debug/net5.0/SuppliesForSchool.pdb
+/Users/maggie/Projects/PractiseOne3/SuppliesForSchool/obj/Debug/net5.0/SuppliesForSchool.csproj.AssemblyReference.cache
+/Users/maggie/Projects/PractiseOne3/SuppliesForSchool/obj/Debug/net5.0/SuppliesForSchool.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/PractiseOne3/SuppliesForSchool/obj/Debug/net5.0/SuppliesForSchool.AssemblyInfoInputs.cache
+/Users/maggie/Projects/PractiseOne3/SuppliesForSchool/obj/Debug/net5.0/SuppliesForSchool.AssemblyInfo.cs
+/Users/maggie/Projects/PractiseOne3/SuppliesForSchool/obj/Debug/net5.0/SuppliesForSchool.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/PractiseOne3/SuppliesForSchool/obj/Debug/net5.0/SuppliesForSchool.dll
+/Users/maggie/Projects/PractiseOne3/SuppliesForSchool/obj/Debug/net5.0/ref/SuppliesForSchool.dll
+/Users/maggie/Projects/PractiseOne3/SuppliesForSchool/obj/Debug/net5.0/SuppliesForSchool.pdb
+/Users/maggie/Projects/PractiseOne3/SuppliesForSchool/obj/Debug/net5.0/SuppliesForSchool.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/maggie/Projects/ForCicle/NumberSequence/bin/Release/net5.0/NumberSequence.deps.json
+/Users/maggie/Projects/ForCicle/NumberSequence/bin/Release/net5.0/NumberSequence.runtimeconfig.json
+/Users/maggie/Projects/ForCicle/NumberSequence/bin/Release/net5.0/NumberSequence.runtimeconfig.dev.json
+/Users/maggie/Projects/ForCicle/NumberSequence/bin/Release/net5.0/NumberSequence.dll
+/Users/maggie/Projects/ForCicle/NumberSequence/bin/Release/net5.0/ref/NumberSequence.dll
+/Users/maggie/Projects/ForCicle/NumberSequence/bin/Release/net5.0/NumberSequence.pdb
+/Users/maggie/Projects/ForCicle/NumberSequence/obj/Release/net5.0/NumberSequence.csproj.AssemblyReference.cache
+/Users/maggie/Projects/ForCicle/NumberSequence/obj/Release/net5.0/NumberSequence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/ForCicle/NumberSequence/obj/Release/net5.0/NumberSequence.AssemblyInfoInputs.cache
+/Users/maggie/Projects/ForCicle/NumberSequence/obj/Release/net5.0/NumberSequence.AssemblyInfo.cs
+/Users/maggie/Projects/ForCicle/NumberSequence/obj/Release/net5.0/NumberSequence.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/ForCicle/NumberSequence/obj/Release/net5.0/NumberSequence.dll
+/Users/maggie/Projects/ForCicle/NumberSequence/obj/Release/net5.0/ref/NumberSequence.dll
+/Users/maggie/Projects/ForCicle/NumberSequence/obj/Release/net5.0/NumberSequence.pdb
+/Users/maggie/Projects/ForCicle/NumberSequence/obj/Release/net5.0/NumberSequence.genruntimeconfig.cache

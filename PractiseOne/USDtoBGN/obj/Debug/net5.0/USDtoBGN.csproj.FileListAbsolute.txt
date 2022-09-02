@@ -1,0 +1,15 @@
+/Users/maggie/Projects/PractiseOne/USDtoBGN/bin/Debug/net5.0/USDtoBGN.deps.json
+/Users/maggie/Projects/PractiseOne/USDtoBGN/bin/Debug/net5.0/USDtoBGN.runtimeconfig.json
+/Users/maggie/Projects/PractiseOne/USDtoBGN/bin/Debug/net5.0/USDtoBGN.runtimeconfig.dev.json
+/Users/maggie/Projects/PractiseOne/USDtoBGN/bin/Debug/net5.0/USDtoBGN.dll
+/Users/maggie/Projects/PractiseOne/USDtoBGN/bin/Debug/net5.0/ref/USDtoBGN.dll
+/Users/maggie/Projects/PractiseOne/USDtoBGN/bin/Debug/net5.0/USDtoBGN.pdb
+/Users/maggie/Projects/PractiseOne/USDtoBGN/obj/Debug/net5.0/USDtoBGN.csproj.AssemblyReference.cache
+/Users/maggie/Projects/PractiseOne/USDtoBGN/obj/Debug/net5.0/USDtoBGN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/PractiseOne/USDtoBGN/obj/Debug/net5.0/USDtoBGN.AssemblyInfoInputs.cache
+/Users/maggie/Projects/PractiseOne/USDtoBGN/obj/Debug/net5.0/USDtoBGN.AssemblyInfo.cs
+/Users/maggie/Projects/PractiseOne/USDtoBGN/obj/Debug/net5.0/USDtoBGN.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/PractiseOne/USDtoBGN/obj/Debug/net5.0/USDtoBGN.dll
+/Users/maggie/Projects/PractiseOne/USDtoBGN/obj/Debug/net5.0/ref/USDtoBGN.dll
+/Users/maggie/Projects/PractiseOne/USDtoBGN/obj/Debug/net5.0/USDtoBGN.pdb
+/Users/maggie/Projects/PractiseOne/USDtoBGN/obj/Debug/net5.0/USDtoBGN.genruntimeconfig.cache

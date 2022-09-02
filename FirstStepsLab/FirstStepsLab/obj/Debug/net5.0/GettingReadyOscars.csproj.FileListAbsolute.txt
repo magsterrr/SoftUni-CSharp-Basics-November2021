@@ -1,0 +1,15 @@
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/bin/Debug/net5.0/GettingReadyOscars.deps.json
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/bin/Debug/net5.0/GettingReadyOscars.runtimeconfig.json
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/bin/Debug/net5.0/GettingReadyOscars.runtimeconfig.dev.json
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/bin/Debug/net5.0/GettingReadyOscars.dll
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/bin/Debug/net5.0/ref/GettingReadyOscars.dll
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/bin/Debug/net5.0/GettingReadyOscars.pdb
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/obj/Debug/net5.0/GettingReadyOscars.csproj.AssemblyReference.cache
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/obj/Debug/net5.0/GettingReadyOscars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/obj/Debug/net5.0/GettingReadyOscars.AssemblyInfoInputs.cache
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/obj/Debug/net5.0/GettingReadyOscars.AssemblyInfo.cs
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/obj/Debug/net5.0/GettingReadyOscars.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/obj/Debug/net5.0/GettingReadyOscars.dll
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/obj/Debug/net5.0/ref/GettingReadyOscars.dll
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/obj/Debug/net5.0/GettingReadyOscars.pdb
+/Users/maggie/Projects/FirstStepsLab/FirstStepsLab/obj/Debug/net5.0/GettingReadyOscars.genruntimeconfig.cache

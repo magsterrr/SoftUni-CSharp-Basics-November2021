@@ -1,0 +1,15 @@
+/Users/maggie/Projects/Test2021/Processors/obj/Release/net5.0/Processors.csproj.AssemblyReference.cache
+/Users/maggie/Projects/Test2021/Processors/obj/Release/net5.0/Processors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/Test2021/Processors/obj/Release/net5.0/Processors.AssemblyInfoInputs.cache
+/Users/maggie/Projects/Test2021/Processors/obj/Release/net5.0/Processors.AssemblyInfo.cs
+/Users/maggie/Projects/Test2021/Processors/obj/Release/net5.0/Processors.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/Test2021/Processors/bin/Release/net5.0/Processors.deps.json
+/Users/maggie/Projects/Test2021/Processors/bin/Release/net5.0/Processors.runtimeconfig.json
+/Users/maggie/Projects/Test2021/Processors/bin/Release/net5.0/Processors.runtimeconfig.dev.json
+/Users/maggie/Projects/Test2021/Processors/bin/Release/net5.0/Processors.dll
+/Users/maggie/Projects/Test2021/Processors/bin/Release/net5.0/ref/Processors.dll
+/Users/maggie/Projects/Test2021/Processors/bin/Release/net5.0/Processors.pdb
+/Users/maggie/Projects/Test2021/Processors/obj/Release/net5.0/Processors.dll
+/Users/maggie/Projects/Test2021/Processors/obj/Release/net5.0/ref/Processors.dll
+/Users/maggie/Projects/Test2021/Processors/obj/Release/net5.0/Processors.pdb
+/Users/maggie/Projects/Test2021/Processors/obj/Release/net5.0/Processors.genruntimeconfig.cache

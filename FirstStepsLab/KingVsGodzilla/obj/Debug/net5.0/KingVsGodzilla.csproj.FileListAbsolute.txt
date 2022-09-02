@@ -1,0 +1,15 @@
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/bin/Debug/net5.0/KingVsGodzilla.deps.json
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/bin/Debug/net5.0/KingVsGodzilla.runtimeconfig.json
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/bin/Debug/net5.0/KingVsGodzilla.runtimeconfig.dev.json
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/bin/Debug/net5.0/KingVsGodzilla.dll
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/bin/Debug/net5.0/ref/KingVsGodzilla.dll
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/bin/Debug/net5.0/KingVsGodzilla.pdb
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/obj/Debug/net5.0/KingVsGodzilla.csproj.AssemblyReference.cache
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/obj/Debug/net5.0/KingVsGodzilla.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/obj/Debug/net5.0/KingVsGodzilla.AssemblyInfoInputs.cache
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/obj/Debug/net5.0/KingVsGodzilla.AssemblyInfo.cs
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/obj/Debug/net5.0/KingVsGodzilla.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/obj/Debug/net5.0/KingVsGodzilla.dll
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/obj/Debug/net5.0/ref/KingVsGodzilla.dll
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/obj/Debug/net5.0/KingVsGodzilla.pdb
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/obj/Debug/net5.0/KingVsGodzilla.genruntimeconfig.cache

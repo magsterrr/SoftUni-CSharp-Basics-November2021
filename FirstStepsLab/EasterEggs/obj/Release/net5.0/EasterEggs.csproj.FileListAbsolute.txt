@@ -1,0 +1,15 @@
+/Users/maggie/Projects/FirstStepsLab/EasterEggs/bin/Release/net5.0/EasterEggs.deps.json
+/Users/maggie/Projects/FirstStepsLab/EasterEggs/bin/Release/net5.0/EasterEggs.runtimeconfig.json
+/Users/maggie/Projects/FirstStepsLab/EasterEggs/bin/Release/net5.0/EasterEggs.runtimeconfig.dev.json
+/Users/maggie/Projects/FirstStepsLab/EasterEggs/bin/Release/net5.0/EasterEggs.dll
+/Users/maggie/Projects/FirstStepsLab/EasterEggs/bin/Release/net5.0/ref/EasterEggs.dll
+/Users/maggie/Projects/FirstStepsLab/EasterEggs/bin/Release/net5.0/EasterEggs.pdb
+/Users/maggie/Projects/FirstStepsLab/EasterEggs/obj/Release/net5.0/EasterEggs.csproj.AssemblyReference.cache
+/Users/maggie/Projects/FirstStepsLab/EasterEggs/obj/Release/net5.0/EasterEggs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/FirstStepsLab/EasterEggs/obj/Release/net5.0/EasterEggs.AssemblyInfoInputs.cache
+/Users/maggie/Projects/FirstStepsLab/EasterEggs/obj/Release/net5.0/EasterEggs.AssemblyInfo.cs
+/Users/maggie/Projects/FirstStepsLab/EasterEggs/obj/Release/net5.0/EasterEggs.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/FirstStepsLab/EasterEggs/obj/Release/net5.0/EasterEggs.dll
+/Users/maggie/Projects/FirstStepsLab/EasterEggs/obj/Release/net5.0/ref/EasterEggs.dll
+/Users/maggie/Projects/FirstStepsLab/EasterEggs/obj/Release/net5.0/EasterEggs.pdb
+/Users/maggie/Projects/FirstStepsLab/EasterEggs/obj/Release/net5.0/EasterEggs.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EasterTrip/1.0.0": {
+        "runtime": {
+          "EasterTrip.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EasterTrip/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

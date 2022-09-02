@@ -1,0 +1,15 @@
+/Users/maggie/Projects/Test2021/CatFood/bin/Release/net5.0/CatFood.deps.json
+/Users/maggie/Projects/Test2021/CatFood/bin/Release/net5.0/CatFood.runtimeconfig.json
+/Users/maggie/Projects/Test2021/CatFood/bin/Release/net5.0/CatFood.runtimeconfig.dev.json
+/Users/maggie/Projects/Test2021/CatFood/bin/Release/net5.0/CatFood.dll
+/Users/maggie/Projects/Test2021/CatFood/bin/Release/net5.0/ref/CatFood.dll
+/Users/maggie/Projects/Test2021/CatFood/bin/Release/net5.0/CatFood.pdb
+/Users/maggie/Projects/Test2021/CatFood/obj/Release/net5.0/CatFood.csproj.AssemblyReference.cache
+/Users/maggie/Projects/Test2021/CatFood/obj/Release/net5.0/CatFood.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/Test2021/CatFood/obj/Release/net5.0/CatFood.AssemblyInfoInputs.cache
+/Users/maggie/Projects/Test2021/CatFood/obj/Release/net5.0/CatFood.AssemblyInfo.cs
+/Users/maggie/Projects/Test2021/CatFood/obj/Release/net5.0/CatFood.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/Test2021/CatFood/obj/Release/net5.0/CatFood.dll
+/Users/maggie/Projects/Test2021/CatFood/obj/Release/net5.0/ref/CatFood.dll
+/Users/maggie/Projects/Test2021/CatFood/obj/Release/net5.0/CatFood.pdb
+/Users/maggie/Projects/Test2021/CatFood/obj/Release/net5.0/CatFood.genruntimeconfig.cache

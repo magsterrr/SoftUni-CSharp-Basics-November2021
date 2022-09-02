@@ -1,0 +1,15 @@
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/bin/Debug/net5.0/MovieDay.deps.json
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/bin/Debug/net5.0/MovieDay.runtimeconfig.json
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/bin/Debug/net5.0/MovieDay.runtimeconfig.dev.json
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/bin/Debug/net5.0/MovieDay.dll
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/bin/Debug/net5.0/ref/MovieDay.dll
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/bin/Debug/net5.0/MovieDay.pdb
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/obj/Debug/net5.0/MovieDay.csproj.AssemblyReference.cache
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/obj/Debug/net5.0/MovieDay.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/obj/Debug/net5.0/MovieDay.AssemblyInfoInputs.cache
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/obj/Debug/net5.0/MovieDay.AssemblyInfo.cs
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/obj/Debug/net5.0/MovieDay.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/obj/Debug/net5.0/MovieDay.dll
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/obj/Debug/net5.0/ref/MovieDay.dll
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/obj/Debug/net5.0/MovieDay.pdb
+/Users/maggie/Projects/FirstStepsLab/KingVsGodzilla/obj/Debug/net5.0/MovieDay.genruntimeconfig.cache

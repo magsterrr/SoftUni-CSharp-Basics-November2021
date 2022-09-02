@@ -1,0 +1,15 @@
+/Users/maggie/Projects/FirstStepsLab/EasterTrip/bin/Release/net5.0/EasterTrip.deps.json
+/Users/maggie/Projects/FirstStepsLab/EasterTrip/bin/Release/net5.0/EasterTrip.runtimeconfig.json
+/Users/maggie/Projects/FirstStepsLab/EasterTrip/bin/Release/net5.0/EasterTrip.runtimeconfig.dev.json
+/Users/maggie/Projects/FirstStepsLab/EasterTrip/bin/Release/net5.0/EasterTrip.dll
+/Users/maggie/Projects/FirstStepsLab/EasterTrip/bin/Release/net5.0/ref/EasterTrip.dll
+/Users/maggie/Projects/FirstStepsLab/EasterTrip/bin/Release/net5.0/EasterTrip.pdb
+/Users/maggie/Projects/FirstStepsLab/EasterTrip/obj/Release/net5.0/EasterTrip.csproj.AssemblyReference.cache
+/Users/maggie/Projects/FirstStepsLab/EasterTrip/obj/Release/net5.0/EasterTrip.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/FirstStepsLab/EasterTrip/obj/Release/net5.0/EasterTrip.AssemblyInfoInputs.cache
+/Users/maggie/Projects/FirstStepsLab/EasterTrip/obj/Release/net5.0/EasterTrip.AssemblyInfo.cs
+/Users/maggie/Projects/FirstStepsLab/EasterTrip/obj/Release/net5.0/EasterTrip.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/FirstStepsLab/EasterTrip/obj/Release/net5.0/EasterTrip.dll
+/Users/maggie/Projects/FirstStepsLab/EasterTrip/obj/Release/net5.0/ref/EasterTrip.dll
+/Users/maggie/Projects/FirstStepsLab/EasterTrip/obj/Release/net5.0/EasterTrip.pdb
+/Users/maggie/Projects/FirstStepsLab/EasterTrip/obj/Release/net5.0/EasterTrip.genruntimeconfig.cache

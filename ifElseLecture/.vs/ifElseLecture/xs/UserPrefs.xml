@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C304BB94-C307-4E30-9FFE-C47F533A75D3}|Default">
+  <MonoDevelop.Ide.ItemProperties.ifElseLecture PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GodzillaAgainstKong/Program.cs">
+    <Files>
+      <File FileName="ifElseLecture/Program.cs" Line="16" Column="1" />
+      <File FileName="GodzillaAgainstKong/Program.cs" Line="24" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ifElseLecture" expanded="True" selected="True">
+            <Node name="GodzillaAgainstKong" expanded="True" />
+            <Node name="ifElseLecture" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GodzillaAgainstKong PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

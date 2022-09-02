@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{3363D758-4AF7-4348-899E-76016A6E71BC}|Default">
+  <MonoDevelop.Ide.ItemProperties.SmallestAndBiggest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ForCicle PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NumberSequence/SmallestAndBiggest.cs">
+    <Files>
+      <File FileName="SumNumber/Program.cs" Line="16" Column="36" />
+      <File FileName="NumberSequence/Program.cs" Line="3" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ForCicle" expanded="True">
+            <Node name="ForCicle" expanded="True" />
+            <Node name="SmallestAndBiggest" expanded="True">
+              <Node name="SmallestAndBiggest.cs" selected="True" />
+            </Node>
+            <Node name="SumNumber" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SumNumber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/maggie/Projects/ForCicle/ForCicle/VowelsSum.cs" relfile="ForCicle/VowelsSum.cs" line="11" column="1" />
+      <Breakpoint file="/Users/maggie/Projects/ForCicle/NumberSequence/SmallestAndBiggest.cs" relfile="NumberSequence/SmallestAndBiggest.cs" line="19" column="1" />
+      <Breakpoint file="/Users/maggie/Projects/ForCicle/NumberSequence/SmallestAndBiggest.cs" relfile="NumberSequence/SmallestAndBiggest.cs" line="31" column="1" />
+      <Breakpoint file="/Users/maggie/Projects/ForCicle/NumberSequence/SmallestAndBiggest.cs" relfile="NumberSequence/SmallestAndBiggest.cs" line="30" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

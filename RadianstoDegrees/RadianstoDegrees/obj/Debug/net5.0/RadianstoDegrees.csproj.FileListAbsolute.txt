@@ -1,0 +1,15 @@
+/Users/maggie/Projects/RadianstoDegrees/RadianstoDegrees/bin/Debug/net5.0/RadianstoDegrees.deps.json
+/Users/maggie/Projects/RadianstoDegrees/RadianstoDegrees/bin/Debug/net5.0/RadianstoDegrees.runtimeconfig.json
+/Users/maggie/Projects/RadianstoDegrees/RadianstoDegrees/bin/Debug/net5.0/RadianstoDegrees.runtimeconfig.dev.json
+/Users/maggie/Projects/RadianstoDegrees/RadianstoDegrees/bin/Debug/net5.0/RadianstoDegrees.dll
+/Users/maggie/Projects/RadianstoDegrees/RadianstoDegrees/bin/Debug/net5.0/ref/RadianstoDegrees.dll
+/Users/maggie/Projects/RadianstoDegrees/RadianstoDegrees/bin/Debug/net5.0/RadianstoDegrees.pdb
+/Users/maggie/Projects/RadianstoDegrees/RadianstoDegrees/obj/Debug/net5.0/RadianstoDegrees.csproj.AssemblyReference.cache
+/Users/maggie/Projects/RadianstoDegrees/RadianstoDegrees/obj/Debug/net5.0/RadianstoDegrees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/RadianstoDegrees/RadianstoDegrees/obj/Debug/net5.0/RadianstoDegrees.AssemblyInfoInputs.cache
+/Users/maggie/Projects/RadianstoDegrees/RadianstoDegrees/obj/Debug/net5.0/RadianstoDegrees.AssemblyInfo.cs
+/Users/maggie/Projects/RadianstoDegrees/RadianstoDegrees/obj/Debug/net5.0/RadianstoDegrees.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/RadianstoDegrees/RadianstoDegrees/obj/Debug/net5.0/RadianstoDegrees.dll
+/Users/maggie/Projects/RadianstoDegrees/RadianstoDegrees/obj/Debug/net5.0/ref/RadianstoDegrees.dll
+/Users/maggie/Projects/RadianstoDegrees/RadianstoDegrees/obj/Debug/net5.0/RadianstoDegrees.pdb
+/Users/maggie/Projects/RadianstoDegrees/RadianstoDegrees/obj/Debug/net5.0/RadianstoDegrees.genruntimeconfig.cache

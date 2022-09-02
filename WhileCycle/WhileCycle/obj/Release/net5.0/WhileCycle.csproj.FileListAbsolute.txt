@@ -1,0 +1,14 @@
+/Users/maggie/Projects/WhileCycle/WhileCycle/bin/Release/net5.0/WhileCycle.deps.json
+/Users/maggie/Projects/WhileCycle/WhileCycle/bin/Release/net5.0/WhileCycle.runtimeconfig.json
+/Users/maggie/Projects/WhileCycle/WhileCycle/bin/Release/net5.0/WhileCycle.runtimeconfig.dev.json
+/Users/maggie/Projects/WhileCycle/WhileCycle/bin/Release/net5.0/WhileCycle.dll
+/Users/maggie/Projects/WhileCycle/WhileCycle/bin/Release/net5.0/ref/WhileCycle.dll
+/Users/maggie/Projects/WhileCycle/WhileCycle/bin/Release/net5.0/WhileCycle.pdb
+/Users/maggie/Projects/WhileCycle/WhileCycle/obj/Release/net5.0/WhileCycle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maggie/Projects/WhileCycle/WhileCycle/obj/Release/net5.0/WhileCycle.AssemblyInfoInputs.cache
+/Users/maggie/Projects/WhileCycle/WhileCycle/obj/Release/net5.0/WhileCycle.AssemblyInfo.cs
+/Users/maggie/Projects/WhileCycle/WhileCycle/obj/Release/net5.0/WhileCycle.csproj.CoreCompileInputs.cache
+/Users/maggie/Projects/WhileCycle/WhileCycle/obj/Release/net5.0/WhileCycle.dll
+/Users/maggie/Projects/WhileCycle/WhileCycle/obj/Release/net5.0/ref/WhileCycle.dll
+/Users/maggie/Projects/WhileCycle/WhileCycle/obj/Release/net5.0/WhileCycle.pdb
+/Users/maggie/Projects/WhileCycle/WhileCycle/obj/Release/net5.0/WhileCycle.genruntimeconfig.cache
